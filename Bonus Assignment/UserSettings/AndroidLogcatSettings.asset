@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "1WMHH843M31293",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH843M31293",
+        "name": "com.DefaultCompany.BonusAssignment",
+        "processId": 8465,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.oculus.os.vrusb",
+            "processId": 2161,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.oculus.os.clearactivity",
+            "processId": 30323,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.oculus.shellenv",
+            "processId": 1948,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 25786,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 26789,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 27944,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 28671,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 29251,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 29884,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 30648,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 31320,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 32309,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 625,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 1274,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 4354,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 6157,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 6719,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 7732,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 8465,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
