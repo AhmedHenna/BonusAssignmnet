@@ -6,6 +6,7 @@ using UnityEngine.Events;
 public class ButtonVR : MonoBehaviour
 {
     public GameObject button; 
+    public GameObject randomSpawn;
     public UnityEvent onPress;
     public UnityEvent onRelease;
     GameObject presser;
@@ -37,6 +38,7 @@ public class ButtonVR : MonoBehaviour
     }
 
     public void resetGame(){
+        randomSpawn.SetActive(true);
         Score.score = 0;
         RandomSpawner.startGame();
         Score.scoreString = "Your Score: 0";

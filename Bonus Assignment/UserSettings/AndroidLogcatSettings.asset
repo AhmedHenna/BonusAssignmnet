@@ -3,123 +3,63 @@
     "m_SelectedPackage": {
         "deviceId": "1WMHH843M31293",
         "name": "com.DefaultCompany.BonusAssignment",
-        "processId": 8465,
+        "processId": 8870,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "1WMHH843M31293",
-            "name": "com.oculus.os.vrusb",
-            "processId": 2161,
-            "exited": false
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 27878,
+            "exited": true
         },
         {
             "deviceId": "1WMHH843M31293",
-            "name": "com.oculus.os.clearactivity",
-            "processId": 30323,
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 28509,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 5678,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 6768,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.DefaultCompany.BonusAssignment",
+            "processId": 7424,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH843M31293",
+            "name": "com.oculus.os.vrusb",
+            "processId": 3944,
             "exited": false
         },
         {
             "deviceId": "1WMHH843M31293",
             "name": "com.oculus.shellenv",
-            "processId": 1948,
+            "processId": 3150,
             "exited": false
         },
         {
             "deviceId": "1WMHH843M31293",
             "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 25786,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 26789,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 27944,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 28671,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 29251,
-            "exited": true
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 29884,
+            "processId": 8423,
             "exited": false
         },
         {
             "deviceId": "1WMHH843M31293",
             "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 30648,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 31320,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 32309,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 625,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 1274,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 4354,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 6157,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 6719,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 7732,
-            "exited": false
-        },
-        {
-            "deviceId": "1WMHH843M31293",
-            "name": "com.DefaultCompany.BonusAssignment",
-            "processId": 8465,
+            "processId": 8870,
             "exited": false
         }
     ],

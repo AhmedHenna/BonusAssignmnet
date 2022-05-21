@@ -7,6 +7,8 @@ TagManager:
   - Target
   - Bullet
   - TextTag
+  - Tag2
+  - audio
   layers:
   - Default
   - TransparentFX
